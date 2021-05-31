@@ -3,7 +3,7 @@
 Pong-Game feito em C utilizando a biblioteca SDL2.
 Este jogo foi criado seguindo [este Tutorial](https://www.youtube.com/watch?v=B4BXpiQASpA).
 
-![Screenshot from 2021-05-30 00-37-53](https://user-images.githubusercontent.com/72050839/120091237-a72e4700-c0df-11eb-9f88-bf07b6bce33b.png)
+![pong](https://user-images.githubusercontent.com/72050839/120243197-57fe2880-c23d-11eb-9b79-6ee9beb4a879.gif)
 
 ## Como Jogar 
 
